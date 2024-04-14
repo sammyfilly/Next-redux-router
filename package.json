@@ -35,7 +35,7 @@
     "server.js"
   ],
   "devDependencies": {
-    "babel": "^5.6.14",
+    "babel": "^6.0.0",
     "babel-core": "6.26.3",
     "babel-eslint": "^10.0.0",
     "babel-loader": "^9.0.0",
